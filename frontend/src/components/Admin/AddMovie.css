@@ -1,0 +1,32 @@
+.AddMovie-container{
+    width: 413px;
+    margin: auto;
+    padding: 38px;
+    background-color: #f0f0f0;
+}
+.AddMovie-form-input{
+    width: 400px;
+    margin-bottom: 19px;
+}
+.AddMovie-button-container{
+    display: flex;
+    justify-content: center;
+}
+.AddMovie-button{
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 4px 15px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+    height: 32px;
+}
+.AddMovie-form-poster-preview{
+    width: 200px;
+    margin: 30px 0px 20px 60px;
+}
+.AddMovie-heading{
+    text-align: center;
+}

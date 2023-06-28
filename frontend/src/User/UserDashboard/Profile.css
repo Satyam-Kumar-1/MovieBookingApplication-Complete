@@ -1,0 +1,60 @@
+.profile-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .form-data {
+    margin-bottom: 10px;
+  }
+  
+  .form-data input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    /* color: #0023fffc; */
+  }
+  
+  .user-data {
+    margin: 20px;
+    padding: 7px;
+    border: 2px solid black;
+    border-radius: 4px;
+    color: #0023fffc;
+  }
+  
+  .profile-button {
+    padding: 10px 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 104px;
+    border-radius: 4px;
+  }
+  
+  .profile-button:hover {
+   
+    background-color: #4f92da;
+    font-size: 15px;
+    
+    
+  }
+  
+  .head-txt {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .label-name {
+    font-weight: bold;
+    color: #ff0000; }

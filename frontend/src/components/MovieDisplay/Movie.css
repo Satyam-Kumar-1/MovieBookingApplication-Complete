@@ -1,0 +1,63 @@
+.movie-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+  }
+  
+  /* .movie-list {
+    margin: 10px;
+    border: 2px solid black;
+  }  */
+  
+  /* .movie-poster {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  } */
+  /* .booking-buttn{
+   
+    width: 200px;
+    background-color: aqua;
+    
+  }
+  .booking-link{
+    padding: 50px;
+  } */
+
+  .movie-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    /* border: 2px solid black;
+    border-radius: 4px; */
+  }
+  
+  .movie-poster {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .booking-buttn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 175px;
+    height: 50px;
+    background-color: #1f32d2;
+    border-radius: 200px;
+  }
+  
+  .booking-link {
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    color: white;
+    
+  }
+  
+  

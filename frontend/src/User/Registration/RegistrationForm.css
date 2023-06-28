@@ -1,0 +1,107 @@
+.registration-form-heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    /* Add more styles as needed */
+  }
+  
+.registration-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="password"] {
+    width: 96%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  .warning {
+    color: red;
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  
+  .tick {
+    color: green;
+    margin-right: 5px;
+  }
+  
+  .btn-register,
+  .btn-next,.go-to-login-button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .go-to-login-button{
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 4px 15px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-register:hover,
+  .btn-next:hover ,
+  .go-to-login-button:hover{
+    background-color: #45a049;
+  }
+  
+  .btn-register.btn-active,
+  .btn-next.btn-active {
+    background-color: #45a049;
+    cursor: pointer;
+  }
+  
+  .btn-register:disabled,
+  .btn-next:disabled {
+    background-color: #c9e8c1;
+    cursor: not-allowed;
+  }
+  
+  .success-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  
+  .success-icon {
+    font-size: 48px;
+    color: green;
+    margin-bottom: 10px;
+  }
+  
+
+
+  .registration-form-container{
+    text-align: center;
+  }

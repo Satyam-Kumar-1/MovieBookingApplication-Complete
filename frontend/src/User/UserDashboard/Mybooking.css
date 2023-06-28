@@ -1,0 +1,47 @@
+.form-booking-container{
+    width: 413px;
+    margin: auto;
+    padding: 38px;
+    background-color: #f0f0f0;
+}
+.form-booking-input{
+    width: 400px;
+    margin-bottom: 19px;
+}
+.form-booking-input-select{
+   
+    margin-bottom: 25px;
+}
+.form-booking-input-select-option{
+   
+    width: 184px;
+    height: 25px;
+    background-color: #fff;
+}
+.form-booking-buttn{
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 4px 15px;
+    font-size: 14px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100px;
+    height: 32px;
+}
+.form-booking-buttn:hover{
+    background-color: #614caf;
+    
+}
+
+.form-booking-buttn-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .Booking-page-movie-poster{
+    width: 200px;
+    height: 300px;
+    margin-bottom: 20px;
+    /* object-fit: cover; */
+  }

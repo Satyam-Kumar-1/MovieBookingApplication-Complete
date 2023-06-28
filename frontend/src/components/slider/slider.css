@@ -1,0 +1,34 @@
+.slider-img {
+  width: 1000px;
+  height: 300px;
+  border-radius: 25px;
+
+
+}
+
+
+#slider {
+  text-align: center;
+}
+
+.left-slider {
+  position: absolute;
+  top: 236px;
+  left: 140px;
+
+}
+
+.right-slider {
+  position: absolute;
+  top: 236px;
+  right: 140px;
+}
+
+.dot-slider {
+  margin: 5px;
+}
+
+.slider-dots {
+  position: relative;
+  top: -26px;
+}

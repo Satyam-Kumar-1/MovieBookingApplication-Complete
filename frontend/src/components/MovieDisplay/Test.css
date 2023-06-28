@@ -1,0 +1,8 @@
+.movie-row{
+    display:flex;
+    flex-wrap:wrap;
+}
+.poster-img{
+    width:200px ;
+    height: 300px;
+}
